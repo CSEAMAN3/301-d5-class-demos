@@ -1,0 +1,12 @@
+.row-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* .row-box {
+  background-color: white;
+  margin: 1rem 0;
+  width: 30%;
+  height: 100px;
+} */
