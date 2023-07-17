@@ -1,0 +1,22 @@
+- create a react application using command npx create-react-app beast-world in the terminal
+- cd into beast-world
+- code . to open the project
+- delete the unwanted files and code inside the src directory
+- create a components directory
+- inside create folders for the following components and include the JS + CSS files.
+  - Header
+  - Footer
+  - Main
+  - Horned Beast
+- import your Header, Footer and Main component into app.js and return them inside the App.js function.
+- open a terminal and run npm start to open the project in browser
+- Add a h1 that says beast world and apply some styling
+- Add your name as the author in side the footer and style it
+- import the HornedBeast component into the Main conponent and return the component twice inside the Main functional component
+- The main element needs to pass title, imgUrl and description to each HornedBeast component
+- destructure the props in the hornedBeast component
+- create:
+  - h2 to display the title
+  - img element with the src attribute set to the imgUrl and the alt as the title
+  - p element to display the description
+- add css to suit
