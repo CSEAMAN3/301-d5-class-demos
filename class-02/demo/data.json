@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Val the caribbean pirate",
+    "age": 30,
+    "isStudent": true,
+    "like": "Holding hands on long windy walks by the sea"
+  },
+  {
+    "name": "Chidi the philosopher",
+    "age": 48,
+    "isStudent": true,
+    "like": "taking chris out for the day then making an appointment at the clinic using the Bravo app"
+  },
+  {
+    "name": "Sam the lou lou la lou lou lou da lou dis",
+    "age": 24,
+    "isStudent": false,
+    "like": "solving problems like a G"
+  }
+]
