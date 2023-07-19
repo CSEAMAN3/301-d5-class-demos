@@ -1,0 +1,52 @@
+.modal {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+.modal-container {
+  background-color: rgb(51, 29, 44, 0.9);
+  width: 70vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 1rem;
+  color: white;
+  border: orange 3px solid;
+}
+
+.modal h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.modal p {
+  font-size: 1.15rem;
+  margin-bottom: 2rem;
+}
+
+.modal li {
+  margin-bottom: 0.5rem;
+}
+
+.modal-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.modal-button:hover {
+  background-color: rgb(255, 255, 255, 0.3);
+}

@@ -1,0 +1,22 @@
+header {
+  background-color: tomato;
+  padding: 1rem 0;
+}
+
+.header-container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 2rem;
+}
+
+.lessons-button {
+  cursor: pointer;
+}
