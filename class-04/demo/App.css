@@ -1,0 +1,9 @@
+form {
+  padding: 1rem;
+}
+
+label,
+button {
+  display: block;
+  margin: 1rem 0;
+}
